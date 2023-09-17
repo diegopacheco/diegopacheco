@@ -4,6 +4,16 @@ Diego Pacheco is a seasoned, experienced 🇧🇷Brazilian software architect, a
 
 🌱Currently: Working as a principal Software Architect with AWS public cloud, Kubernetes/EKS, performing complex cloud migrations, library migrations, server and persistence migrations, and security at scale with multi-level envelope encryption solutions using KMS and S3. While still hiring, teaching, mentoring, and growing engineers and architects. During my free time, I love playing with my daughter, playing guitar, gaming, coding POCs, and blogging. Active blogger blog at http://diego-pacheco.blogspot.com.br/
 
+💻 Core skills and expertise:
+* Architecture Design and architecture coding for highly scalable systems
+* Delivering distributed systems using SOA and Microservices principles, tools, and techniques
+* Driving and executing complex cloud migrations, library and server migrations at scale
+* Performance tuning, troubleshooting & DevOps engineering
+* Functional Programming and Scala
+* Technology Mentor, agile coach & servant leader for architecture and engineering teams
+* Consultant on development practices with XP / Kanban
+* Hire, develop, retain, and truly grow talent at scale
+
 ### Resources
 * 📝Blogger(<https://diego-pacheco.blogspot.com/>)
 * 📝Medium(<https://diego-pacheco.medium.com/>)
