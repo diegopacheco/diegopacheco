@@ -22,7 +22,7 @@ Diego Pacheco is a seasoned, experienced 🇧🇷Brazilian software architect, a
 * 🐦Twitter/X (<https://twitter.com/diego_pacheco>)
 * 📺YouTube Tech Channel (<https://www.youtube.com/channel/UC81qdxTnQWQxw73_CmIZAjg/videos>)
 
-### Tiny Essays
+### 📝 Tiny Essays:
 * <img weight=20, height=20 src="https://emojis.slackmojis.com/emojis/images/1643514229/1965/rust.png?1643514229"> Rust https://gist.github.com/diegopacheco/4b7dfeb781ad3455ae2a6b090d9deaa7
 * <img weight=20, height=20 src="https://slackmojis.com/emojis/1857-scala/download"> Scala https://gist.github.com/diegopacheco/1b5df4287dd1ce4276631fd630267311
 * <img weight=20, height=20 src="https://slackmojis.com/emojis/57099-ziglang/download"> Zig https://gist.github.com/diegopacheco/7d7c8110db68352d58a18b0e3e3c2bb0
