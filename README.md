@@ -35,3 +35,4 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * <img weight=20, height=20 src="https://slackmojis.com/emojis/63427-nim/download"> Nim https://gist.github.com/diegopacheco/0fb84d881e2423147d9cb6f8619bf473
 * <img weight=20, height=20 src="https://vlang.io/img/v-logo.png"> V https://gist.github.com/diegopacheco/3d0b176eb83e569da582a0770209e22f
 * <img weight=20, height=20 src="https://gleam.run/images/lucy/lucy.svg"> Gleam https://gist.github.com/diegopacheco/2fdb5be0446ccb8f07d02105a46aab75
+* Misc https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97
