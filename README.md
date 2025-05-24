@@ -36,3 +36,10 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * <img weight=20, height=20 src="https://vlang.io/img/v-logo.png"> V https://gist.github.com/diegopacheco/3d0b176eb83e569da582a0770209e22f
 * <img weight=20, height=20 src="https://gleam.run/images/lucy/lucy.svg"> Gleam https://gist.github.com/diegopacheco/2fdb5be0446ccb8f07d02105a46aab75
 * <img weight=20, height=20, src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png">Misc https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97
+
+### 🥇 Tiny Side Projects:
+
+* 🧝🏾‍♂️ Tupi lang: programming language written in Java 23: https://github.com/diegopacheco/tupilang
+* 🥫 Jello: vanilla JS, web-apis, trello-like: https://github.com/diegopacheco/jello
+* 📑 Zim: vim-like written in Zig 0.13: https://github.com/diegopacheco/zim
+* 💻 Gorminator: simple and dumb Linux terminal written in Go: https://github.com/diegopacheco/gorminator
