@@ -44,3 +44,4 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * 📑 Zim: vim-like written in Zig 0.13: https://github.com/diegopacheco/zim
 * 💻 Gorminator: simple and dumb Linux terminal written in Go: https://github.com/diegopacheco/gorminator
 * 😸 kit: Git-like written in Kotlin https://github.com/diegopacheco/kit
+* 🦀 Shrust: Compress/Decompress tool written in Rust: https://github.com/diegopacheco/Shrust
