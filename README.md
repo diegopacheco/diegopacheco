@@ -16,10 +16,11 @@ Diego Pacheco is a seasoned, experienced 🇧🇷Brazilian software architect, a
 
 ### 🌐 Resources:
 * 📝Blogger(<https://diego-pacheco.blogspot.com/>)
+* 📝Substack (<https://diegopachecotech.substack.com/>)
 * 📝Medium(<https://diego-pacheco.medium.com/>)
 * 📚Amazon Author(<https://amazon.com/author/diegopacheco>)
 * 🏢LinkedIn (<https://www.linkedin.com/in/diegopachecors/>)
-* 🐦X (<https://twitter.com/diego_pacheco>) Blusky (https://bsky.app/profile/diegopacheco.bsky.social)
+* 🐦X (<https://twitter.com/diego_pacheco>) 🐦Blusky (https://bsky.app/profile/diegopacheco.bsky.social)
 * 📺YouTube Tech Channel (<https://www.youtube.com/channel/UC81qdxTnQWQxw73_CmIZAjg/videos>)
 
 ### 📝 Tiny Essays:
