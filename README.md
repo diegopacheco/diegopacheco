@@ -45,3 +45,4 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * 💻 Gorminator: simple and dumb Linux terminal written in Go: https://github.com/diegopacheco/gorminator
 * 😸 kit: Git-like written in Kotlin https://github.com/diegopacheco/kit
 * 🦀 Shrust: Compress/Decompress tool written in Rust: https://github.com/diegopacheco/Shrust
+* 🕵🏽 Smith: It's a security Agent Written with Scala 3.x https://github.com/diegopacheco/Smith
