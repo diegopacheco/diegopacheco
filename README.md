@@ -47,3 +47,4 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * 😸 kit: Git-like written in Kotlin https://github.com/diegopacheco/kit
 * 🦀 Shrust: Compress/Decompress tool written in Rust: https://github.com/diegopacheco/Shrust
 * 🕵🏽 Smith: It's a security Agent Written with Scala 3.x https://github.com/diegopacheco/Smith
+* 📟 ZOS: A very tiny OS written in Zig. https://github.com/diegopacheco/zos
