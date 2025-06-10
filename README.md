@@ -48,4 +48,4 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * 🦀 Shrust: Compress/Decompress tool written in Rust: https://github.com/diegopacheco/Shrust
 * 🕵🏽 Smith: It's a security Agent Written with Scala 3.x https://github.com/diegopacheco/Smith
 * 📟 ZOS: A very tiny OS written in Zig. https://github.com/diegopacheco/zos
-* 🎮 Tiny Games: Collection of HTML, CSS & JS games: https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e
+* 🎮 Tiny Games: Collection of JS games: https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e
