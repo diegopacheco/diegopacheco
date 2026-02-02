@@ -38,6 +38,46 @@ https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471
 * <img weight=20, height=20 src="https://gleam.run/images/lucy/lucy.svg"> Gleam https://gist.github.com/diegopacheco/2fdb5be0446ccb8f07d02105a46aab75
 * <img weight=20, height=20, src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png">Misc https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97
 
+### 🧪 Feature POCs
+
+<ul>
+<li><a href="https://github.com/diegopacheco/ai-playground" target="_blank" rel="noopener noreferrer">AI Playground</a></li>
+<li><a href="https://github.com/diegopacheco/data-structures" target="_blank" rel="noopener noreferrer">Data Structures</a></li>
+<li><a href="https://github.com/diegopacheco/servers-benchmark" target="_blank" rel="noopener noreferrer">Servers Benchmark</a></li>
+<li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-alternatives-fun" target="_blank" rel="noopener noreferrer">IF Alternatives</a></li>
+<li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-killer-proper-oop" target="_blank" rel="noopener noreferrer">IF Killer Proper OOP</a></li>
+<li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/java-21-spring-boot-3-async-virtual-threads" target="_blank" rel="noopener noreferrer">Spring Boot Virtual Threads</a></li>
+<li><a href="https://github.com/diegopacheco/scala-playground/tree/master/scala-3.7-spring-boot-3.5-netty-multi-workers-metrics-grafana-k6" target="_blank" rel="noopener noreferrer">Netty K6</a></li>
+<li><a href="https://github.com/diegopacheco/scala-playground/tree/master/scala-3.5-patterns/src/main/scala/com/github/diegopacheco/scalapatterns" target="_blank" rel="noopener noreferrer">Scala 3x Patterns</a></li>
+<li><a href="https://github.com/diegopacheco/devops-playground/tree/master/postgres-partitions-playground" target="_blank" rel="noopener noreferrer">Postgres Partition Playground</a></li>
+<li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/oop-anti-patterns" target="_blank" rel="noopener noreferrer">OOP Anti-Patterns</a></li>
+</ul>
+
+### 🤖 Feature AI POCs:</h3>
+<ul class="feature-pocs-list">
+<li><a href="https://github.com/diegopacheco/code-city-viz" target="_blank" rel="noopener noreferrer">🏙️ Code City Viz</a></li>
+<li><a href="https://github.com/diegopacheco/ras" target="_blank" rel="noopener noreferrer">📄 RAS: Rust Arxiv Sumarizer</a></li>
+<li><a href="https://github.com/diegopacheco/claudio-coda-rust" target="_blank" rel="noopener noreferrer">🦀 Claudio Coda</a></li>
+<li><a href="https://github.com/diegopacheco/local-agent-orama" target="_blank" rel="noopener noreferrer">🔮 Local Agent
+Orama</a></li>
+<li><a href="https://github.com/diegopacheco/local-agent-rust-llama3" target="_blank" rel="noopener noreferrer">🦙 Local Agent
+Rust Llamma 3 (llr3)</a></li>
+<li><a href="https://github.com/diegopacheco/multi-agent-verse" target="_blank" rel="noopener noreferrer">🌐
+Multi-Agent-Verse</a></li>
+<li><a href="https://github.com/diegopacheco/prompt-2-k8s-agent" target="_blank" rel="noopener noreferrer">☸️
+prompt-2-k8s-agent</a></li>
+<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt" target="_blank" rel="noopener
+noreferrer">📚 Agent Learner Prompt</a></li>
+<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score" target="_blank" rel="noopener
+noreferrer">📊 Prompt Score</a></li>
+<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine" target="_blank" rel="noopener
+noreferrer">🤖 Self Training Machine</a></li>
+<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent" target="_blank"
+rel="noopener noreferrer">🎮 Connect Four: Agent vs Agent</a></li>
+<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club" target="_blank"
+rel="noopener noreferrer">💬 Agent Debate Club</a></li>
+</ul>
+
 ### 🥇 Tiny Side Projects:
 
 * 🧝🏾‍♂️ Tupi lang: programming language written in Java 23: https://github.com/diegopacheco/tupilang
