@@ -48,26 +48,26 @@
   ### 📝 Tiny Essays
 
   <a href="https://gist.github.com/diegopacheco/98c85dec602d308f533edb4d0df35471"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/1383-typescript/download"> Typescript</a> · <a
-  href="https://gist.github.com/diegopacheco/4b7dfeb781ad3455ae2a6b090d9deaa7"><img width="20" height="20"
-  src="https://emojis.slackmojis.com/emojis/images/1643514229/1965/rust.png?1643514229"> Rust</a> · <a
-  href="https://gist.github.com/diegopacheco/1b5df4287dd1ce4276631fd630267311"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/1857-scala/download"> Scala</a> · <a
-  href="https://gist.github.com/diegopacheco/7d7c8110db68352d58a18b0e3e3c2bb0"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/57099-ziglang/download"> Zig</a> · <a
-  href="https://gist.github.com/diegopacheco/f6beabf1451cfe1ec2dc89a19a78fdc5"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/2351-kotlin/download"> Kotlin</a> · <a
-  href="https://gist.github.com/diegopacheco/9453877378f007e8903a359f298a0afa"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/378-clojure/download"> Clojure</a> · <a
-  href="https://gist.github.com/diegopacheco/057087dc7ae236bdd0700014a31c88ef"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/22333-haskell/download"> Haskell</a> · <a
-  href="https://gist.github.com/diegopacheco/0fb84d881e2423147d9cb6f8619bf473"><img width="20" height="20"
-  src="https://slackmojis.com/emojis/63427-nim/download"> Nim</a> · <a
-  href="https://gist.github.com/diegopacheco/3d0b176eb83e569da582a0770209e22f"><img width="20" height="20"
-  src="https://vlang.io/img/v-logo.png"> V</a> · <a
-  href="https://gist.github.com/diegopacheco/2fdb5be0446ccb8f07d02105a46aab75"><img width="20" height="20"
-  src="https://gleam.run/images/lucy/lucy.svg"> Gleam</a> · <a
-  href="https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/1383-typescript/download"> Typescript</a><br>
+  <a href="https://gist.github.com/diegopacheco/4b7dfeb781ad3455ae2a6b090d9deaa7"><img width="20" height="20"
+  src="https://emojis.slackmojis.com/emojis/images/1643514229/1965/rust.png?1643514229"> Rust</a><br>
+  <a href="https://gist.github.com/diegopacheco/1b5df4287dd1ce4276631fd630267311"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/1857-scala/download"> Scala</a><br>
+  <a href="https://gist.github.com/diegopacheco/7d7c8110db68352d58a18b0e3e3c2bb0"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/57099-ziglang/download"> Zig</a><br>
+  <a href="https://gist.github.com/diegopacheco/f6beabf1451cfe1ec2dc89a19a78fdc5"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/2351-kotlin/download"> Kotlin</a><br>
+  <a href="https://gist.github.com/diegopacheco/9453877378f007e8903a359f298a0afa"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/378-clojure/download"> Clojure</a><br>
+  <a href="https://gist.github.com/diegopacheco/057087dc7ae236bdd0700014a31c88ef"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/22333-haskell/download"> Haskell</a><br>
+  <a href="https://gist.github.com/diegopacheco/0fb84d881e2423147d9cb6f8619bf473"><img width="20" height="20"
+  src="https://slackmojis.com/emojis/63427-nim/download"> Nim</a><br>
+  <a href="https://gist.github.com/diegopacheco/3d0b176eb83e569da582a0770209e22f"><img width="20" height="20"
+  src="https://vlang.io/img/v-logo.png"> V</a><br>
+  <a href="https://gist.github.com/diegopacheco/2fdb5be0446ccb8f07d02105a46aab75"><img width="20" height="20"
+  src="https://gleam.run/images/lucy/lucy.svg"> Gleam</a><br>
+  <a href="https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97"><img width="20" height="20"
   src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png"> Misc</a>
 
   </td>
