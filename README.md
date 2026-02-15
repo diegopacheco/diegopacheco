@@ -41,9 +41,9 @@
   * 🐦X (<https://twitter.com/diego_pacheco>) 🐦Blusky (https://bsky.app/profile/diegopacheco.bsky.social)
   * 📺YouTube Tech Channel (<https://www.youtube.com/channel/UC81qdxTnQWQxw73_CmIZAjg/videos>)
 
-    <table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-  <td valign="top" style="border: none;">
+  <td valign="top" style="border: none; width: 50%;">
 
   ### 📝 Tiny Essays
 
@@ -71,7 +71,7 @@
   [Misc](https://gist.github.com/diegopacheco/49329d726d0e2bd1c709ba1187a92c97)
 
   </td>
-  <td valign="top" style="border: none;">
+  <td valign="top" style="border: none; width: 50%;">
 
   ### 🧪 Feature POCs
 
@@ -99,7 +99,7 @@
   </td>
   </tr>
   <tr style="border: none;">
-  <td valign="top" style="border: none;">
+  <td valign="top" style="border: none; width: 50%;">
 
   ### 🤖 Feature AI POCs
 
@@ -129,19 +129,19 @@
   </ul>
 
   </td>
-  <td valign="top" style="border: none;">
+  <td valign="top" style="border: none; width: 50%;">
 
   ### 🥇 Tiny Side Projects
 
-  * 🧝🏾‍♂️ Tupi lang: programming language written in Java 23: https://github.com/diegopacheco/tupilang
-  * 🥫 Jello: vanilla JS, web-apis, trello-like: https://github.com/diegopacheco/jello
-  * 📑 Zim: vim-like written in Zig 0.13: https://github.com/diegopacheco/zim
-  * 💻 Gorminator: simple and dumb Linux terminal written in Go: https://github.com/diegopacheco/gorminator
-  * 😸 kit: Git-like written in Kotlin https://github.com/diegopacheco/kit
-  * 🦀 Shrust: Compress/Decompress tool written in Rust: https://github.com/diegopacheco/Shrust
-  * 🕵🏽 Smith: It's a security Agent Written with Scala 3.x https://github.com/diegopacheco/Smith
-  * 📟 ZOS: A very tiny OS written in Zig. https://github.com/diegopacheco/zos
-  * 🎮 Tiny Games: Collection of JS games: https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e
+  * 🧝🏾‍♂️ [Tupi lang](https://github.com/diegopacheco/tupilang): programming language written in Java 23
+  * 🥫 [Jello](https://github.com/diegopacheco/jello): vanilla JS, web-apis, trello-like
+  * 📑 [Zim](https://github.com/diegopacheco/zim): vim-like written in Zig 0.13
+  * 💻 [Gorminator](https://github.com/diegopacheco/gorminator): simple and dumb Linux terminal written in Go
+  * 😸 [kit](https://github.com/diegopacheco/kit): Git-like written in Kotlin
+  * 🦀 [Shrust](https://github.com/diegopacheco/Shrust): Compress/Decompress tool written in Rust
+  * 🕵🏽 [Smith](https://github.com/diegopacheco/Smith): It's a security Agent Written with Scala 3.x
+  * 📟 [ZOS](https://github.com/diegopacheco/zos): A very tiny OS written in Zig.
+  * 🎮 [Tiny Games](https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e): Collection of JS games
 
   </td>
   </tr>
