@@ -76,6 +76,7 @@
   ### 🧪 Feature POCs
 
   <ul>
+  <li><a href="https://github.com/diegopacheco/typescript-playground/tree/main/pocs/control-flow-testing" target="_blank" rel="noopener noreferrer">TS Control Flow Testing</a></li>
   <li><a href="https://github.com/diegopacheco/ai-playground" target="_blank" rel="noopener noreferrer">AI Playground</a></li>
   <li><a href="https://github.com/diegopacheco/data-structures" target="_blank" rel="noopener noreferrer">Data Structures</a></li>
   <li><a href="https://github.com/diegopacheco/servers-benchmark" target="_blank" rel="noopener noreferrer">Servers
