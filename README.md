@@ -69,7 +69,7 @@
  src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png"> Misc</a>
 
  </td>
- <td valign="top" width="30%" style="border: none; background: none;">
+ <td valign="top" width="25%" style="border: none; background: none;">
 
  ### 🧪 Feature POCs
 
@@ -87,7 +87,7 @@
  * [OOP Anti-Patterns](https://github.com/diegopacheco/java-pocs/tree/master/pocs/oop-anti-patterns)
 
  </td>
- <td valign="top" width="45%" style="border: none; background: none;">
+ <td valign="top" width="50%" style="border: none; background: none;">
 
  ### 🥇 Tiny Side Projects
 
