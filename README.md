@@ -140,7 +140,6 @@ noreferrer">☸️ K8s SRE Agent Operator</a></li>
 <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench" target="_blank"
 rel="noopener
 noreferrer">⚡ AutoBench Skill</a></li>
-</ul>
 <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse" target="_blank" rel="noopener
 noreferrer">🏛️ Multi-Agent Auction House (3 Agents)</a></li>
 <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf" target="_blank" rel="noopener noreferrer">🐺
