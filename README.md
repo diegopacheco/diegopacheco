@@ -41,7 +41,7 @@
 
  <table style="border: none; border-collapse: collapse;">
  <tr style="border: none; background: none;">
- <td valign="top" width="20%" style="border: none; background: none;">
+ <td valign="top" width="15%" style="border: none; background: none;">
 
  ### 📝 Tiny Essays
 
@@ -87,7 +87,7 @@
  * [OOP Anti-Patterns](https://github.com/diegopacheco/java-pocs/tree/master/pocs/oop-anti-patterns)
 
  </td>
- <td valign="top" width="50%" style="border: none; background: none;">
+ <td valign="top" width="55%" style="border: none; background: none;">
 
  ### 🥇 Tiny Side Projects
 
