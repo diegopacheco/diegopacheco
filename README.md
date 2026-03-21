@@ -116,7 +116,7 @@
  * 📄 [RAS: Rust Arxiv Sumarizer](https://github.com/diegopacheco/ras)
  * 🦀 [Claudio Coda](https://github.com/diegopacheco/claudio-coda-rust)
  * 🔮 [Local Agent Orama](https://github.com/diegopacheco/local-agent-orama)
- * 🦙 [Local Agent Rust Llamma 3 (llr3)](https://github.com/diegopacheco/local-agent-rust-llama3)
+ * 🦙 [Local Agent Rust Llamma 3](https://github.com/diegopacheco/local-agent-rust-llama3)
  * 🌐 [Multi-Agent-Verse](https://github.com/diegopacheco/multi-agent-verse)
  * ☸️ [prompt-2-k8s-agent](https://github.com/diegopacheco/prompt-2-k8s-agent)
  * 📚 [Agent Learner Prompt](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt)
@@ -136,20 +136,19 @@
  </td>
  <td valign="top" width="30%" style="border: none; background: none;">
 
- * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
- * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
- * 🏛️ [Multi-Agent Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
- * 🐺 [Werewolf Agent Game](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf)
- * 📖 [Agent Skill: Runbook Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
- * ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
- * 🏗️ [Agent Skill: Infra Automation
- Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
- * 🔧 [Agent Skill: Bruno Collection Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill)
+* ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
+* ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
+* 🏛️ [Multi-Agent Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
+* 🐺 [Werewolf Agent Game](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf)
+* 📖 [Agent Skill: Runbook Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
+* ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
+* 🏗️ [Agent Skill: Infra Automation Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
+* 🔧 [Agent Skill: Bruno Collection Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill)
 
- </td>
- </tr>
- </table>
+</td>
+</tr>
+</table>
 
- </td>
- </tr>
- </table>
+</td>
+</tr>
+</table>
