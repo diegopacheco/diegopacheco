@@ -134,7 +134,7 @@
  * 🔐 [Leak Detector Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill)
 
  </td>
- <td valign="top" width="45%" style="border: none; background: none;">
+ <td valign="top" width="40%" style="border: none; background: none;">
 
  * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
  * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
@@ -150,6 +150,6 @@
  </tr>
  </table>
 
-  </td>
-  </tr>
-  </table>
+ </td>
+ </tr>
+ </table>
