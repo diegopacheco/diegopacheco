@@ -110,7 +110,7 @@
 
  <table style="border: none; border-collapse: collapse;">
  <tr style="border: none; background: none;">
- <td valign="top" width="30%" style="border: none; background: none;">
+ <td valign="top" width="20%" style="border: none; background: none;">
 
  * 🏙️ [Code City Viz](https://github.com/diegopacheco/code-city-viz)
  * 📄 [RAS: Rust Arxiv Sumarizer](https://github.com/diegopacheco/ras)
