@@ -138,9 +138,9 @@
 
  * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
  * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
- * 🏛️ [Multi-Agent Auction House (3 Agents)](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
+ * 🏛️ [Multi-Agent Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
  * 🐺 [Werewolf Agent Game](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf)
- * 📖 [Agent Skill: Runbook Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
+ * 📖 [Agent Skill: Runbook Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
  * ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
  * 🏗️ [Agent Skill: Infra Automation
  Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
