@@ -1,4 +1,4 @@
- ### 👨‍💻 Diego Pacheco Bio
+### 👨‍💻 Diego Pacheco Bio
 
   Diego Pacheco is a seasoned, experienced 🇧🇷Brazilian software architect, author, speaker, technology mentor, and DevOps practitioner
   with more than 20+ years of solid experience. I've been building teams and mentoring people for more than a decade, teaching soft
@@ -41,7 +41,7 @@
 
   <table>
   <tr>
-  <td valign="top" width="50%">
+  <td valign="top" width="33%">
 
   ### 📝 Tiny Essays
 
@@ -69,80 +69,26 @@
   src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png"> Misc</a>
 
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="33%">
 
   ### 🧪 Feature POCs
 
-  <ul>
-  <li><a href="https://github.com/diegopacheco/typescript-playground/tree/main/pocs/control-flow-testing" target="_blank" rel="noopener
-  noreferrer">TS Control Flow Testing</a></li>
-  <li><a href="https://github.com/diegopacheco/ai-playground" target="_blank" rel="noopener noreferrer">AI Playground</a></li>
-  <li><a href="https://github.com/diegopacheco/data-structures" target="_blank" rel="noopener noreferrer">Data Structures</a></li>
-  <li><a href="https://github.com/diegopacheco/servers-benchmark" target="_blank" rel="noopener noreferrer">Servers Benchmark</a></li>
-  <li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-alternatives-fun" target="_blank" rel="noopener
-  noreferrer">IF Alternatives</a></li>
-  <li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-killer-proper-oop" target="_blank" rel="noopener
-  noreferrer">IF Killer Proper OOP</a></li>
-  <li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/java-21-spring-boot-3-async-virtual-threads" target="_blank"
-  rel="noopener noreferrer">Spring Boot Virtual Threads</a></li>
-  <li><a
-  href="https://github.com/diegopacheco/scala-playground/tree/master/scala-3.7-spring-boot-3.5-netty-multi-workers-metrics-grafana-k6"
-  target="_blank" rel="noopener noreferrer">Netty K6</a></li>
-  <li><a href="https://github.com/diegopacheco/scala-playground/tree/master/scala-3.5-patterns/src/main/scala/com/github/diegopacheco/sca
-  lapatterns" target="_blank" rel="noopener noreferrer">Scala 3x Patterns</a></li>
-  <li><a href="https://github.com/diegopacheco/devops-playground/tree/master/postgres-partitions-playground" target="_blank"
-  rel="noopener noreferrer">Postgres Partition Playground</a></li>
-  <li><a href="https://github.com/diegopacheco/java-pocs/tree/master/pocs/oop-anti-patterns" target="_blank" rel="noopener
-  noreferrer">OOP Anti-Patterns</a></li>
-  </ul>
+  * [TS Control Flow Testing](https://github.com/diegopacheco/typescript-playground/tree/main/pocs/control-flow-testing)
+  * [AI Playground](https://github.com/diegopacheco/ai-playground)
+  * [Data Structures](https://github.com/diegopacheco/data-structures)
+  * [Servers Benchmark](https://github.com/diegopacheco/servers-benchmark)
+  * [IF Alternatives](https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-alternatives-fun)
+  * [IF Killer Proper OOP](https://github.com/diegopacheco/java-pocs/tree/master/pocs/if-killer-proper-oop)
+  * [Spring Boot Virtual Threads](https://github.com/diegopacheco/java-pocs/tree/master/pocs/java-21-spring-boot-3-async-virtual-threads)
+  * [Netty
+  K6](https://github.com/diegopacheco/scala-playground/tree/master/scala-3.7-spring-boot-3.5-netty-multi-workers-metrics-grafana-k6)
+  * [Scala 3x Patterns](https://github.com/diegopacheco/scala-playground/tree/master/scala-3.5-patterns/src/main/scala/com/github/diegopa
+  checo/scalapatterns)
+  * [Postgres Partition Playground](https://github.com/diegopacheco/devops-playground/tree/master/postgres-partitions-playground)
+  * [OOP Anti-Patterns](https://github.com/diegopacheco/java-pocs/tree/master/pocs/oop-anti-patterns)
 
   </td>
-  </tr>
-  <tr>
-  <td valign="top" width="50%">
-
-  ### 🤖 Feature AI POCs
-
-  <table>
-  <tr>
-  <td valign="top" width="50%">
-
-  * 🏙️ [Code City Viz](https://github.com/diegopacheco/code-city-viz)
-  * 📄 [RAS: Rust Arxiv Sumarizer](https://github.com/diegopacheco/ras)
-  * 🦀 [Claudio Coda](https://github.com/diegopacheco/claudio-coda-rust)
-  * 🔮 [Local Agent Orama](https://github.com/diegopacheco/local-agent-orama)
-  * 🦙 [Local Agent Rust Llamma 3 (llr3)](https://github.com/diegopacheco/local-agent-rust-llama3)
-  * 🌐 [Multi-Agent-Verse](https://github.com/diegopacheco/multi-agent-verse)
-  * ☸️ [prompt-2-k8s-agent](https://github.com/diegopacheco/prompt-2-k8s-agent)
-  * 📚 [Agent Learner Prompt](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt)
-  * 📊 [Prompt Score](https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score)
-  * 🤖 [Self Training Machine](https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine)
-  * 🎮 [Connect Four: Agent vs Agent](https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent)
-  * 💬 [Agent Debate Club](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club)
-
-  </td>
-  <td valign="top" width="50%">
-
-  * 🏛️ [Agents Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
-  * 🎲 [AI RPG](https://github.com/diegopacheco/ai-playground/tree/main/pocs/ai-rpg)
-  * 📋 [Skill Evaluator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/skill-evaluator)
-  * 🔐 [Leak Detector Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill)
-  * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
-  * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
-  * 🏛️ [Multi-Agent Auction House (3 Agents)](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
-  * 🐺 [Werewolf Agent Game](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf)
-  * 📖 [Agent Skill: Runbook Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
-  * ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
-  * 🏗️ [Agent Skill: Infra Automation
-  Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
-  * 🔧 [Agent Skill: Bruno Collection Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill)
-
-  </td>
-  </tr>
-  </table>
-
-  </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="33%">
 
   ### 🥇 Tiny Side Projects
 
@@ -155,6 +101,59 @@
   * 🕵🏽 [Smith](https://github.com/diegopacheco/Smith): It's a security Agent Written with Scala 3.x
   * 📟 [ZOS](https://github.com/diegopacheco/zos): A very tiny OS written in Zig.
   * 🎮 [Tiny Games](https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e): Collection of JS games
+
+  </td>
+  </tr>
+  <tr>
+  <td colspan="3">
+
+  ### 🤖 Feature AI POCs
+
+  <table>
+  <tr>
+  <td valign="top" width="25%">
+
+  * 🏙️ [Code City Viz](https://github.com/diegopacheco/code-city-viz)
+  * 📄 [RAS: Rust Arxiv Sumarizer](https://github.com/diegopacheco/ras)
+  * 🦀 [Claudio Coda](https://github.com/diegopacheco/claudio-coda-rust)
+  * 🔮 [Local Agent Orama](https://github.com/diegopacheco/local-agent-orama)
+  * 🦙 [Local Agent Rust Llamma 3 (llr3)](https://github.com/diegopacheco/local-agent-rust-llama3)
+  * 🌐 [Multi-Agent-Verse](https://github.com/diegopacheco/multi-agent-verse)
+
+  </td>
+  <td valign="top" width="25%">
+
+  * ☸️ [prompt-2-k8s-agent](https://github.com/diegopacheco/prompt-2-k8s-agent)
+  * 📚 [Agent Learner Prompt](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt)
+  * 📊 [Prompt Score](https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score)
+  * 🤖 [Self Training Machine](https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine)
+  * 🎮 [Connect Four: Agent vs Agent](https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent)
+  * 💬 [Agent Debate Club](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club)
+
+  </td>
+  <td valign="top" width="25%">
+
+  * 🏛️ [Agents Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
+  * 🎲 [AI RPG](https://github.com/diegopacheco/ai-playground/tree/main/pocs/ai-rpg)
+  * 📋 [Skill Evaluator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/skill-evaluator)
+  * 🔐 [Leak Detector Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill)
+  * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
+  * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
+
+  </td>
+  <td valign="top" width="25%">
+
+  * 🏛️ [Multi-Agent Auction House (3 Agents)](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
+  * 🐺 [Werewolf Agent Game](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf)
+  * 📖 [Agent Skill: Runbook Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook)
+  * ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
+  * 🏗️ [Agent Skill: Infra Automation
+  Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
+  * 🔧 [Agent Skill: Bruno Collection Generator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill)
+
+  </td>
+  </tr>
+  </table>
 
   </td>
   </tr>
