@@ -110,7 +110,7 @@
 
  <table style="border: none; border-collapse: collapse;">
  <tr style="border: none; background: none;">
- <td valign="top" width="20%" style="border: none; background: none;">
+ <td valign="top" width="25%" style="border: none; background: none;">
 
  * 🏙️ [Code City Viz](https://github.com/diegopacheco/code-city-viz)
  * 📄 [RAS: Rust Arxiv Sumarizer](https://github.com/diegopacheco/ras)
@@ -134,7 +134,7 @@
  * 🔐 [Leak Detector Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill)
 
  </td>
- <td valign="top" width="40%" style="border: none; background: none;">
+ <td valign="top" width="30%" style="border: none; background: none;">
 
  * ☸️ [K8s SRE Agent Operator](https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator)
  * ⚡ [AutoBench Skill](https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench)
