@@ -102,72 +102,66 @@
   <tr style="border: none;">
   <td valign="top" style="border: none; width: 50%;">
 
-### 🤖 Feature AI POCs
+  <tr style="border: none;">
+  <td colspan="2" style="border: none;">
 
-<ul>
-<li><a href="https://github.com/diegopacheco/code-city-viz" target="_blank" rel="noopener noreferrer">🏙️ Code City Viz</a></li>
-<li><a href="https://github.com/diegopacheco/ras" target="_blank" rel="noopener noreferrer">📄 RAS: Rust Arxiv Sumarizer</a></li>
-<li><a href="https://github.com/diegopacheco/claudio-coda-rust" target="_blank" rel="noopener noreferrer">🦀 Claudio
-Coda</a></li>
-<li><a href="https://github.com/diegopacheco/local-agent-orama" target="_blank" rel="noopener noreferrer">🔮 Local Agent
-Orama</a></li>
-<li><a href="https://github.com/diegopacheco/local-agent-rust-llama3" target="_blank" rel="noopener noreferrer">🦙 Local Agent
-Rust Llamma 3 (llr3)</a></li>
-<li><a href="https://github.com/diegopacheco/multi-agent-verse" target="_blank" rel="noopener noreferrer">🌐
-Multi-Agent-Verse</a></li>
-<li><a href="https://github.com/diegopacheco/prompt-2-k8s-agent" target="_blank" rel="noopener noreferrer">☸️
-prompt-2-k8s-agent</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt" target="_blank" rel="noopener
-noreferrer">📚 Agent Learner Prompt</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score" target="_blank" rel="noopener
-noreferrer">📊 Prompt Score</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine" target="_blank" rel="noopener
-noreferrer">🤖 Self Training Machine</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent" target="_blank"
-rel="noopener noreferrer">🎮 Connect Four: Agent vs Agent</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club" target="_blank" rel="noopener
-noreferrer">💬 Agent Debate Club</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse" target="_blank" rel="noopener
-noreferrer">🏛️ Agents Auction House</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/ai-rpg" target="_blank" rel="noopener
-noreferrer">🎲 AI RPG</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/skill-evaluator" target="_blank" rel="noopener
-noreferrer">📋 Skill Evaluator</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill" target="_blank" rel="noopener
-noreferrer">🔐 Leak Detector Skill</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator" target="_blank" rel="noopener
-noreferrer">☸️ K8s SRE Agent Operator</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench" target="_blank"
-rel="noopener
-noreferrer">⚡ AutoBench Skill</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse" target="_blank" rel="noopener
-noreferrer">🏛️ Multi-Agent Auction House (3 Agents)</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf" target="_blank" rel="noopener noreferrer">🐺
-Werewolf Agent Game</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook" target="_blank" rel="noopener noreferrer">📖
-Agent Skill: Runbook Generator</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker" target="_blank" rel="noopener
-noreferrer">⏱️ CC Hook: Tool Call Time Tracker</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator" target="_blank"
-rel="noopener noreferrer">🏗️ Agent Skill: Infra Automation Generator</a></li>
-<li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill" target="_blank" rel="noopener
-noreferrer">🔧 Agent Skill: Bruno Collection Generator</a></li>
+  ### 🤖 Feature AI POCs
 
-</td>
-<td valign="top" style="border: none; width: 50%;">
-
-  ### 🥇 Tiny Side Projects
-
-  * 🧝🏾‍♂️ [Tupi lang](https://github.com/diegopacheco/tupilang): programming language written in Java 23
-  * 🥫 [Jello](https://github.com/diegopacheco/jello): vanilla JS, web-apis, trello-like
-  * 📑 [Zim](https://github.com/diegopacheco/zim): vim-like written in Zig 0.13
-  * 💻 [Gorminator](https://github.com/diegopacheco/gorminator): simple and dumb Linux terminal written in Go
-  * 😸 [kit](https://github.com/diegopacheco/kit): Git-like written in Kotlin
-  * 🦀 [Shrust](https://github.com/diegopacheco/Shrust): Compress/Decompress tool written in Rust
-  * 🕵🏽 [Smith](https://github.com/diegopacheco/Smith): It's a security Agent Written with Scala 3.x
-  * 📟 [ZOS](https://github.com/diegopacheco/zos): A very tiny OS written in Zig.
-  * 🎮 [Tiny Games](https://gist.github.com/diegopacheco/d48104e8f584e3209ce7d5f5c0186e0e): Collection of JS games
-
+  <table style="border: none; width: 100%;">
+  <tr style="border: none;">
+  <td valign="top" style="border: none; width: 50%;">
+  <ul>
+  <li><a href="https://github.com/diegopacheco/code-city-viz" target="_blank" rel="noopener noreferrer">🏙️ Code City Viz</a></li>
+  <li><a href="https://github.com/diegopacheco/ras" target="_blank" rel="noopener noreferrer">📄 RAS: Rust Arxiv Sumarizer</a></li>
+  <li><a href="https://github.com/diegopacheco/claudio-coda-rust" target="_blank" rel="noopener noreferrer">🦀 Claudio Coda</a></li>
+  <li><a href="https://github.com/diegopacheco/local-agent-orama" target="_blank" rel="noopener noreferrer">🔮 Local Agent Orama</a></li>
+  <li><a href="https://github.com/diegopacheco/local-agent-rust-llama3" target="_blank" rel="noopener noreferrer">🦙 Local Agent Rust
+  Llamma 3 (llr3)</a></li>
+  <li><a href="https://github.com/diegopacheco/multi-agent-verse" target="_blank" rel="noopener noreferrer">🌐 Multi-Agent-Verse</a></li>
+  <li><a href="https://github.com/diegopacheco/prompt-2-k8s-agent" target="_blank" rel="noopener noreferrer">☸️
+  prompt-2-k8s-agent</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-learner-prompt" target="_blank" rel="noopener
+  noreferrer">📚 Agent Learner Prompt</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score" target="_blank" rel="noopener noreferrer">📊
+  Prompt Score</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine" target="_blank" rel="noopener
+  noreferrer">🤖 Self Training Machine</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent" target="_blank" rel="noopener
+  noreferrer">🎮 Connect Four: Agent vs Agent</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club" target="_blank" rel="noopener
+  noreferrer">💬 Agent Debate Club</a></li>
+  </ul>
+  </td>
+  <td valign="top" style="border: none; width: 50%;">
+  <ul>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse" target="_blank" rel="noopener
+  noreferrer">🏛️ Agents Auction House</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/ai-rpg" target="_blank" rel="noopener noreferrer">🎲 AI
+  RPG</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/skill-evaluator" target="_blank" rel="noopener noreferrer">📋
+   Skill Evaluator</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/leak-detector-skill" target="_blank" rel="noopener
+  noreferrer">🔐 Leak Detector Skill</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/k8s-sre-agent-operator" target="_blank" rel="noopener
+  noreferrer">☸️ K8s SRE Agent Operator</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/autobench-skill-poc/sample-bench" target="_blank"
+  rel="noopener noreferrer">⚡ AutoBench Skill</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse" target="_blank" rel="noopener
+  noreferrer">🏛️ Multi-Agent Auction House (3 Agents)</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-werewolf" target="_blank" rel="noopener noreferrer">🐺
+  Werewolf Agent Game</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-runbook" target="_blank" rel="noopener noreferrer">📖
+  Agent Skill: Runbook Generator</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker" target="_blank" rel="noopener
+  noreferrer">⏱️ CC Hook: Tool Call Time Tracker</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator" target="_blank"
+  rel="noopener noreferrer">🏗️ Agent Skill: Infra Automation Generator</a></li>
+  <li><a href="https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill" target="_blank" rel="noopener
+  noreferrer">🔧 Agent Skill: Bruno Collection Generator</a></li>
+  </ul>
   </td>
   </tr>
   </table>
+
+  </td>
+  </tr>
