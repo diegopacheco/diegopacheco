@@ -69,7 +69,7 @@
  src="https://icon-icons.com/icons2/79/PNG/256/misc_box_15274.png"> Misc</a>
 
  </td>
- <td valign="top" width="35%" style="border: none; background: none;">
+ <td valign="top" width="30%" style="border: none; background: none;">
 
  ### 🧪 Feature POCs
 
