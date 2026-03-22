@@ -126,7 +126,7 @@
 
  * 📊 [Prompt Score](https://github.com/diegopacheco/ai-playground/tree/main/pocs/prompt-score)
  * 🤖 [Self Training Machine](https://github.com/diegopacheco/ai-playground/tree/main/pocs/self-training-machine)
- * 🎮 [Connect Four: Agent vs Agent](https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent)
+ * 🎮 [Connect 4: Agent vs Agent](https://github.com/diegopacheco/ai-playground/tree/main/pocs/connect-four-agent-vs-agent)
  * 💬 [Agent Debate Club](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-debate-club)
  * 🏛️ [Agents Auction House](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agents-auction-hourse)
  * 🎲 [AI RPG](https://github.com/diegopacheco/ai-playground/tree/main/pocs/ai-rpg)
