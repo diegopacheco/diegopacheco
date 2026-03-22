@@ -144,6 +144,7 @@
 * ⏱️ [CC Hook: Tool Call Time Tracker](https://github.com/diegopacheco/ai-playground/tree/main/pocs/cc-hook-tool-time-tracker)
 * 🏗️ [Agent Skill: Infra Automation Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-infra-automation-generator)
 * 🔧 [Agent Skill: Bruno Collection Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-bruno-skill)
+* 🔥 [Agent Skill: Grafana Gen](https://github.com/diegopacheco/ai-playground/tree/main/pocs/agent-skill-grafana-generator)
 
 </td>
 </tr>
