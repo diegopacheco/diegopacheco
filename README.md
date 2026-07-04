@@ -1,6 +1,6 @@
 ### 👨‍💻 Diego Pacheco Bio
 
- <a href"https://diegopacheco.github.io/">Diego Pacheco</a> is a seasoned, experienced 🇧🇷Brazilian software architect, author, speaker, technology mentor, and DevOps practitioner
+ [Diego Pacheco](https://diegopacheco.github.io) is a seasoned, experienced 🇧🇷Brazilian software architect, author, speaker, technology mentor, and DevOps practitioner
  with more than 20+ years of solid experience. I've been building teams and mentoring people for more than a decade, teaching soft
  skills and technology daily. Selling projects, hiring, building solutions, running coding dojos, long retrospectives, weekly 1:1s,
  design sessions, code reviews, and my favorite debate club: architects community of practices and development groups for more than a
